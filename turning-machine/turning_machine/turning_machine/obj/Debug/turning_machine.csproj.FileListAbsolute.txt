@@ -1,0 +1,7 @@
+K:\VS2017\turning_machine\turning_machine\bin\Debug\turning_machine.exe.config
+K:\VS2017\turning_machine\turning_machine\bin\Debug\turning_machine.exe
+K:\VS2017\turning_machine\turning_machine\bin\Debug\turning_machine.pdb
+K:\VS2017\turning_machine\turning_machine\obj\Debug\turning_machine.csprojResolveAssemblyReference.cache
+K:\VS2017\turning_machine\turning_machine\obj\Debug\turning_machine.csproj.CoreCompileInputs.cache
+K:\VS2017\turning_machine\turning_machine\obj\Debug\turning_machine.exe
+K:\VS2017\turning_machine\turning_machine\obj\Debug\turning_machine.pdb
