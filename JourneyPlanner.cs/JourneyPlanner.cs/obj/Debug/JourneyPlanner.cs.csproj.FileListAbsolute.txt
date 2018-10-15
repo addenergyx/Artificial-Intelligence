@@ -1,0 +1,7 @@
+K:\CSharpProject\JourneyPlanner.cs\JourneyPlanner.cs\bin\Debug\JourneyPlanner.cs.exe.config
+K:\CSharpProject\JourneyPlanner.cs\JourneyPlanner.cs\bin\Debug\JourneyPlanner.cs.exe
+K:\CSharpProject\JourneyPlanner.cs\JourneyPlanner.cs\bin\Debug\JourneyPlanner.cs.pdb
+K:\CSharpProject\JourneyPlanner.cs\JourneyPlanner.cs\obj\Debug\JourneyPlanner.cs.csprojResolveAssemblyReference.cache
+K:\CSharpProject\JourneyPlanner.cs\JourneyPlanner.cs\obj\Debug\JourneyPlanner.cs.csproj.CoreCompileInputs.cache
+K:\CSharpProject\JourneyPlanner.cs\JourneyPlanner.cs\obj\Debug\JourneyPlanner.cs.exe
+K:\CSharpProject\JourneyPlanner.cs\JourneyPlanner.cs\obj\Debug\JourneyPlanner.cs.pdb

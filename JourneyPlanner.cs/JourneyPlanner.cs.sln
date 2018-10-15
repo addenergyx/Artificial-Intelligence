@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27428.2043
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JourneyPlanner.cs", "JourneyPlanner.cs\JourneyPlanner.cs.csproj", "{F135DD0D-73B0-4166-A446-02949955890A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F135DD0D-73B0-4166-A446-02949955890A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F135DD0D-73B0-4166-A446-02949955890A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F135DD0D-73B0-4166-A446-02949955890A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F135DD0D-73B0-4166-A446-02949955890A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D8B7AF08-EBFD-4330-8595-CED59A3A2984}
+	EndGlobalSection
+EndGlobal
