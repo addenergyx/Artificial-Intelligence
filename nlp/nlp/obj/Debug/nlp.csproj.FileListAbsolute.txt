@@ -1,0 +1,6 @@
+K:\nlp\nlp\bin\Debug\nlp.exe.config
+K:\nlp\nlp\bin\Debug\nlp.exe
+K:\nlp\nlp\bin\Debug\nlp.pdb
+K:\nlp\nlp\obj\Debug\nlp.csproj.CoreCompileInputs.cache
+K:\nlp\nlp\obj\Debug\nlp.exe
+K:\nlp\nlp\obj\Debug\nlp.pdb
